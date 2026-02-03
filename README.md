@@ -1,6 +1,6 @@
 <!-- Centered animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=26&duration=2800&pause=900&color=D2122E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Charlene+Silver+%F0%9F%91%8B;AI+Engineer+Cohort+at+Pijak;Information+Systems+Student+at+UPH+Medan" alt="Charlene Silver typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?size=26&duration=2800&pause=900&color=D2122E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Charlene+Silver+%F0%9F%91%8B;AI+Engineer+Cohort+at+Pijak;Information+Systems+Student+at+UPH" alt="Charlene Silver typing intro" />
 </p>
 
 
@@ -31,7 +31,6 @@ You’ll see experiments with LLMs, chatbots, and UI prototypes in my repos.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 
