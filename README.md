@@ -1,6 +1,6 @@
 <!-- Centered animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=26&duration=2800&pause=900&color=800000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Charlene+Silver+%F0%9F%91%8B;AI+Engineer+Cohort+at+Pijak;Information+Systems+Student+at+UPH+Medan" alt="Charlene Silver typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?size=26&duration=2800&pause=900&color=D2122E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Charlene+Silver+%F0%9F%91%8B;AI+Engineer+Cohort+at+Pijak;Information+Systems+Student+at+UPH+Medan" alt="Charlene Silver typing intro" />
 </p>
 
 
