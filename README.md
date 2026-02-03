@@ -1,19 +1,8 @@
 <!-- Centered animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-?size=26
-&duration=2800
-&pause=900
-&color=0071E3
-&center=true
-&vCenter=true
-&width=650
-&lines=Hi%2C+I'm+Charlene+Silver+%F0%9F%91%8B;
-PIMNAS+38+Finalist;
-AI+Engineer+Cohort+at+Pijak;
-Information+Systems+Student+at+UPH+Medan" 
-       alt="Charlene Silver typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?size=26&duration=2800&pause=900&color=800000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Charlene+Silver+%F0%9F%91%8B;AI+Engineer+Cohort+at+Pijak;Information+Systems+Student+at+UPH+Medan" alt="Charlene Silver typing intro" />
 </p>
+
 
 ---
 
@@ -39,7 +28,9 @@ You’ll see experiments with LLMs, chatbots, and UI prototypes in my repos.
 
 📊 GitHub at a Glance
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=siilverred&show_icons=true&theme=radical&hide_border=true" alt="Charlene's GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siilverred&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> </p>
+
 🏅 Highlights
+
 🏆 PIMNAS 38 Finalist (PKM-KI, funded 2025)
 
 🧠 AI Engineer Cohort – Pijak x IBM SkillsBuild
