@@ -38,7 +38,7 @@ I enjoy mixing AI + data + design to make things that are both smart and easy to
 You’ll see experiments with LLMs, chatbots, and UI prototypes in my repos.
 
 📊 GitHub at a Glance
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Charlene's GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=siilverred&show_icons=true&theme=radical&hide_border=true" alt="Charlene's GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siilverred&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> </p>
 🏅 Highlights
 🏆 PIMNAS 38 Finalist (PKM-KI, funded 2025)
 
