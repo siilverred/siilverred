@@ -26,6 +26,13 @@ I enjoy mixing AI + data + design to make things that are both smart and easy to
 
 You’ll see experiments with LLMs, chatbots, and UI prototypes in my repos.
 
+<p align="left">
+<a href="https://github.com/siilverred">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siilverred&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siilverred&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-23999D?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
