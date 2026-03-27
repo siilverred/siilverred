@@ -24,7 +24,6 @@ UI & Visual Communication -  Education-oriented tech
 ```
 I enjoy mixing AI + data + design to make things that are both smart and easy to use.
 
-You’ll see experiments with LLMs, chatbots, and UI prototypes in my repos.
 
 <p align="left">
 <a href="https://github.com/siilverred">
@@ -43,4 +42,3 @@ You’ll see experiments with LLMs, chatbots, and UI prototypes in my repos.
 
 🤝 Let’s Connect
 <p align="left"> <a href="mailto:charlenesuhardjo@gmail.com"> <img src="https://img.shields.io/badge/Email-charlenesuhardjo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/siilvered"> <img src="https://img.shields.io/badge/LinkedIn-siilvered-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-Blending AI, data, and design to create thoughtful digital experiences.
